@@ -1,0 +1,15 @@
+{
+    "name": "cordova-app",
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-geolocation": {},
+            "cordova-plugin-vibration": {},
+            "cordova-plugin-dialogs": {}
+        }
+    },
+    "dependencies": {
+        "cordova-plugin-geolocation": "4.0.1",
+        "cordova-plugin-vibration": "3.1.0",
+        "cordova-plugin-dialogs": "2.0.1"
+    }
+}
